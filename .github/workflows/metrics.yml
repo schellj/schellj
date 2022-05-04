@@ -32,5 +32,8 @@ jobs:
           plugin_languages_threshold: 5%
           plugin_languages_details: bytes-size, percentage
           plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           repositories_affiliations: owner, collaborator, organization_member
           repositories_batch: 100

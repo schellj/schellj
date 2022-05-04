@@ -19,6 +19,8 @@ jobs:
           commits_authoring: Justin Schell, Schell, schellj, justin@gudtech.com, justin.schell@gudtech.com, justinmschell@gmail.com, schellj@bivio.biz
           config_timezone: America/Los_Angeles
           repositories_skipped: env-conf, rop-console-ios, gudtech/rop-console-ios
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_batch: 100
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
@@ -32,5 +34,3 @@ jobs:
           plugin_languages_threshold: 5%
           plugin_languages_details: bytes-size, percentage
           plugin_lines: yes
-          repositories_affiliations: owner, collaborator, organization_member
-          repositories_batch: 100

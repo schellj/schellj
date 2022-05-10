@@ -128,11 +128,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.13641121701284" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="324.13641121701284" y="0" width="91.05301819918094" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="415.1894294161938" y="0" width="38.74515637338622" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="453.93458578958007" y="0" width="4.781371090665345" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.7159568802454" y="0" width="1.2840431197546507" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.2544798900663" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="323.2544798900663" y="0" width="91.73781921810586" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="414.9922991081722" y="0" width="38.91560375914192" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="453.90790286731414" y="0" width="4.802405260585268" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.7103081278994" y="0" width="1.2896918721006372" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -144,7 +144,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>70.46%</div>
+                                <div>70.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -155,7 +155,7 @@
                                 Emacs Lisp
                             </div>
                             <small>
-                                <div>8.42%</div>
+                                <div>8.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,7 +179,7 @@
                                 Perl
                             </div>
                             <small>
-                                <div>19.79%</div>
+                                <div>19.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -226,7 +226,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2022, 18:01:05 (timezone America/Los_Angeles) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 May 2022, 19:26:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

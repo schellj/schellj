@@ -122,17 +122,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 98kb of code in 154 edited files across 174 commits over last 44 days</small>
+                <small>estimation from 98.5kb of code in 154 edited files across 174 commits over last 44 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.61051883439944" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="363.61051883439944" y="0" width="46.12177209192135" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="409.7322909263208" y="0" width="43.463634209902864" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="453.19592513622365" y="0" width="5.363657900971334" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.559583037195" y="0" width="1.4404169628050225" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.0208004266754" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="364.0208004266754" y="0" width="45.925454881125766" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="409.9462553078012" y="0" width="43.27863135654064" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="453.2248866643418" y="0" width="5.340827504153931" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.56571416849573" y="0" width="1.434285831504236" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -144,7 +144,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>79.05%</div>
+                                <div>79.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -155,7 +155,7 @@
                                 Emacs Lisp
                             </div>
                             <small>
-                                <div>9.45%</div>
+                                <div>9.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,7 +179,7 @@
                                 Perl
                             </div>
                             <small>
-                                <div>10.03%</div>
+                                <div>9.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -190,7 +190,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.17%</div>
+                                <div>1.16%</div>
                             </small>
                         </div>
                     </section>
@@ -226,7 +226,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 10:26:02 (timezone America/Los_Angeles) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 12 May 2022, 11:20:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

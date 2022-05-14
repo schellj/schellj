@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: schellj
           template: classic
-          base: header, activity, metadata
+          base: header, activity
           base_indepth: yes
           commits_authoring: Justin Schell, Schell, schellj, justin@gudtech.com, justin.schell@gudtech.com, justinmschell@gmail.com, schellj@bivio.biz
           config_timezone: America/Los_Angeles

@@ -21,11 +21,11 @@ jobs:
           repositories_skipped: env-conf, rop-console-ios, gudtech/rop-console-ios
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 300
           plugin_languages_colors: github
           plugin_languages_limit: 12
-          plugin_languages_recent_days: 180
-          plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 0
+          plugin_languages_recent_load: 10000
           plugin_languages_sections: recently-used
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage

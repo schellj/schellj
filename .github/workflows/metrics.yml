@@ -24,7 +24,7 @@ jobs:
           plugin_languages_analysis_timeout: 300
           plugin_languages_colors: github
           plugin_languages_limit: 12
-          plugin_languages_recent_days: 0
+          plugin_languages_recent_days: 365
           plugin_languages_recent_load: 10000
           plugin_languages_sections: recently-used
           plugin_languages_threshold: 0%
